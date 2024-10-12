@@ -1,1 +1,1 @@
-FROM python:3.11.10-bookworm
+FROM nginx:1.27.2
