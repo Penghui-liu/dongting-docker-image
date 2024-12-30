@@ -1,1 +1,1 @@
-FROM neo4j:5.26.0
+FROM consul:1.14
