@@ -1,1 +1,1 @@
-FROM consul:1.14
+FROM neo4j/helm-charts-reverse-proxy:5.12.0
