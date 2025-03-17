@@ -1,1 +1,1 @@
-FROM /app/server/storage
+FROM mintplexlabs/anythingllm
