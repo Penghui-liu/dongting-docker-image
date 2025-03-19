@@ -1,1 +1,1 @@
-FROM mysql:8.0.39
+FROM infiniflow/infinity:v0.5.0
