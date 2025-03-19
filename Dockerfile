@@ -1,1 +1,1 @@
-FROM mintplexlabs/anythingllm
+FROM valkey/valkey:8
