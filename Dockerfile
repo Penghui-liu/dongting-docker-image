@@ -1,1 +1,1 @@
-FROM valkey/valkey:8
+FROM mysql:8.0.39
