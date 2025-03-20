@@ -1,1 +1,1 @@
-FROM infiniflow/infinity:v0.6.0-dev3
+FROM infiniflow/ragflow:nightly-slim
